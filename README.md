@@ -17,3 +17,16 @@ An advanced end-to-end **Selenium WebDriver framework** built with Java & TestNG
 - Code quality: **SonarLint** (optional static analysis)
 
 ---
+
+## ⚙️ Features
+
+- 🧩 **Page Object Model** for clean maintainable tests
+- 📊 **Data-driven testing** via Excel and `@DataProvider`
+- 🧵 **Parallel execution** using TestNG `threadCount`
+- 🧪 **Assertions** with TestNG and AssertJ
+- 📋 **Configurable test settings** via properties
+- 📄 **Reports** generated via Allure and TestNG HTML
+- 🧹 **Pre/Post hooks** using `@BeforeMethod`, `@AfterMethod`
+- ⚗️ **CI/CD integration ready**: build, test, report pipeline
+
+---
